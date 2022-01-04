@@ -1,1 +1,48 @@
+:root {
+    --mc:#10c4d8;
+}
 
+*{
+
+}
+
+body{
+
+}
+
+header{
+
+}
+
+header h1 {
+
+}
+
+header nav{
+
+}
+
+header nav ul{
+
+}
+
+section{
+
+}
+
+.avatar{
+    height: 500px;
+    background-image: url(/assets/images/banner.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.MyImg{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
